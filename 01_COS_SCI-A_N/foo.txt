@@ -1,3 +1,5 @@
  bla 
+<span></span>
+div
 hello
 foo
