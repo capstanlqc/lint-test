@@ -1,2 +1,3 @@
- bla
+<span></span> bla <span></span>
 hello
+foo
