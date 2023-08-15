@@ -1,5 +1,5 @@
  bla 
-<span></span> bye
+ bye
 div
 hello
 foo
